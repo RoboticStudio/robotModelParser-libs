@@ -1,0 +1,8 @@
+How to test ?
+
+mkdir build && \
+cd build && \
+cmake .. && \
+make && \
+cd bin && \
+./test
